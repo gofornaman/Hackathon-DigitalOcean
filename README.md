@@ -27,4 +27,8 @@ npm run http_server
 ```
 open the "main.html" file in your browser
 
+This is how it looks like -- 
+![alt text](https://github.com/warmachine0609/Decentralized-Voting-Machine/blob/master/Screenshot.png)
+
+
 And that's it. I hope you were able to successfully execute or else shoot a mail at namanjd@gmail.com
