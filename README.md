@@ -26,5 +26,6 @@ and from a separate shell
 npm run http_server
 ```
 open the "main.html" file in your browser
+```
 
 And that's it. I hope you were able to successfully execute or else shoot a mail at namanjd@gmail.com
