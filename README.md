@@ -29,7 +29,8 @@ open the "main.html" file in your browser
 ```
 
 This is how it looks like -- 
-![alt text](https://github.com/warmachine0609/DigitalOcean-Hackathon/blob/master/docs/Screenshot.png)
+
+![alt text](https://raw.githubusercontent.com/warmachine0609/DigitalOcean-Hackathon/master/docs/Screenshot.png)
 
 
 And that's it. I hope you were able to successfully execute or else shoot a mail at namanjd@gmail.com
