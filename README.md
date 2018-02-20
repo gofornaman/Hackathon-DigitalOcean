@@ -26,7 +26,6 @@ and from a separate shell
 npm run http_server
 ```
 open the "main.html" file in your browser
-```
 
 This is how it looks like -- 
 
